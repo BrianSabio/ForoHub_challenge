@@ -2,6 +2,8 @@
 
 'Foro Hub' es una aplicación back-end desarrollada con Java y Spring; ofrece una API REST con operaciones CRUD para la gestión de un foro de discusión.
 
+![ForoHub icon](assets/Badge-Spring.png "ForoHub icon")
+
 ## Organización del código
 El proyecto utiliza Java junto con su framework Spring, Maven/Gradle para gestionar dependencias y MySQL para manejo de bases de datos y persistencia. Está organizado en distintos paquetes:
 
@@ -42,6 +44,9 @@ El proyecto cuenta con:
 
 ## Estado del proyecto
 Finalizado.
+
+## Autor:
+**Brian Sabio**
 
 ## Licencia
 MIT License
